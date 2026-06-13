@@ -96,7 +96,7 @@ npm install
 npm run dist:win:dir
 ```
 
-把 `release/win-unpacked/` 整个目录复制到 Windows，双击 `打工人生存助手.exe` 即可运行。
+把 `release/win-unpacked/` 整个目录复制到 Windows，双击 `WorkBuddy.exe` 即可运行。应用内仍显示中文名称，exe 文件名使用英文是为了避免部分解压工具处理中文文件名时出现乱码。
 
 ## 已知说明
 

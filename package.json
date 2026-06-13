@@ -49,7 +49,7 @@
   },
   "build": {
     "appId": "cn.workbuddy.desktop",
-    "productName": "打工人生存助手",
+    "productName": "WorkBuddy",
     "directories": {
       "output": "release"
     },
@@ -62,7 +62,7 @@
         "nsis",
         "portable"
       ],
-      "artifactName": "${productName}-${version}-${arch}.${ext}"
+      "artifactName": "workbuddy-${version}-${arch}.${ext}"
     },
     "nsis": {
       "oneClick": false,
