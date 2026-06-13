@@ -1,0 +1,33 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="640" fill="#FFF7EC"/>
+  <circle cx="1110" cy="70" r="190" fill="#FFE6EE"/>
+  <circle cx="180" cy="560" r="240" fill="#FFEBC8"/>
+  <rect x="72" y="78" width="1136" height="484" rx="34" fill="white" fill-opacity=".72" stroke="#F2D7BB"/>
+  <text x="120" y="178" fill="#3F2A1D" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="64" font-weight="800">打工人生存助手</text>
+  <text x="124" y="230" fill="#7C6657" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="26">Windows 桌面宠物 · 下班倒计时 · 发薪日顺延 · 节假日提醒</text>
+  <rect x="120" y="292" width="250" height="112" rx="20" fill="#FFFDF8" stroke="#F0D8BC"/>
+  <circle cx="164" cy="348" r="24" fill="#F47D2C"/>
+  <text x="204" y="340" fill="#7C6657" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="18">距离下班</text>
+  <text x="204" y="374" fill="#3F2A1D" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="32" font-weight="800">03:36:54</text>
+  <rect x="396" y="292" width="250" height="112" rx="20" fill="#FFFDF8" stroke="#F0D8BC"/>
+  <circle cx="440" cy="348" r="24" fill="#5EAA72"/>
+  <text x="480" y="340" fill="#7C6657" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="18">发薪日</text>
+  <text x="480" y="374" fill="#3F2A1D" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="32" font-weight="800">2 天</text>
+  <rect x="672" y="292" width="250" height="112" rx="20" fill="#FFFDF8" stroke="#F0D8BC"/>
+  <circle cx="716" cy="348" r="24" fill="#DD6F89"/>
+  <text x="756" y="340" fill="#7C6657" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="18">下次休息</text>
+  <text x="756" y="374" fill="#3F2A1D" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="32" font-weight="800">今天</text>
+  <g transform="translate(942 216)">
+    <ellipse cx="108" cy="102" rx="78" ry="82" fill="#FFC56E"/>
+    <circle cx="79" cy="73" r="25" fill="#FFF5D8"/>
+    <circle cx="66" cy="74" r="14" fill="#FFB1BD"/>
+    <circle cx="148" cy="74" r="14" fill="#FFB1BD"/>
+    <ellipse cx="92" cy="109" rx="7" ry="10" fill="#3C2A21"/>
+    <ellipse cx="126" cy="109" rx="7" ry="10" fill="#3C2A21"/>
+    <path d="M96 134C104 146 121 146 129 134" stroke="#3C2A21" stroke-width="5" stroke-linecap="round"/>
+    <rect x="10" y="214" width="202" height="74" rx="18" fill="#FFF6E2" stroke="white"/>
+    <text x="73" y="244" fill="#6D5443" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="18">距离下班</text>
+    <text x="53" y="274" fill="#F47D2C" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="30" font-weight="900">03:36:54</text>
+  </g>
+  <text x="122" y="474" fill="#654027" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="22">为普通上班日设计的小工具：安静常驻、可配置、可离线缓存、可打包成 Windows 应用。</text>
+</svg>
